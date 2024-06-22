@@ -1,0 +1,61 @@
+===========================================================================
+Title                   : Hell's Suburb
+Filename                : forms01.wad
+Advanced engine needed  : Limit Removing
+Primary purpose         : Single play
+Author                  : Jonathan W. Taylor
+Email Address           : elderling@gmail.com
+Misc. Author Info       : 
+
+Description             : An imagining of what it would be like if hell had
+                        : suburbs
+
+Additional Credits to   : korp_cat (Doomworld: "Korp") for music
+                        : Elf Alchemist (Doomworld: "elf-alchemist") for
+                          testing/feedback
+===========================================================================
+
+* Information *
+
+Game                    : DOOM
+Map #                   : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : Yes
+Dehacked/BEX Patch      : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Weeks
+Editor(s) used          : Ultimate Doom Builder, SLADE3
+Known Bugs              : 
+May Not Run With        :
+
+
+* Copyright / Permissions *
+
+Everything here is free to use for non-commercial projects If you have any
+doubts, please contact me on either Discord or Doomworld.
+
+
+The .mid, "Last Stand - Composed by Korp and LPad", in this file was used with
+permission but may only be used for non-commercial projects. Please give
+credit to:
+
+Discord: "korp_kat"
+Doomworld: "Korp"
+Twitter: "korp_kat"
+
+* Where to get this WAD *
+
+FTP sites:
+
+Websites: https://github.com/elderling/DOOM-maps-01/releases
+
+Other:
